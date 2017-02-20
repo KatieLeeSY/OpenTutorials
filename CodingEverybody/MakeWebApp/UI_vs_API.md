@@ -1,17 +1,13 @@
-UI vs API
+#UI vs API
 
-User Interface
+##User Interface
 사용자 인터페이스
 
-Application Programming Interface
+##Application Programming Interface
 어떤 프로그래밍 언어를 이용해서 무언가를 제어하려고 할 때 사용하는 수단
 
-Interface
+##Interface
 서로 교류할 때 사용되는 기본적인 도구
-
-장치 - 장치 (ex)usb interface
-
-웹 애플리케이션 - 웹 브라우저
 
 User Interface => 사용자가 직접 조작하는 Interface. 일반 사용자가 사용하고자 하는 애플리케이션을 화면을 통하여 조작 제어할 수 있는 화면. 화면에 보이는 모든 요소
 
