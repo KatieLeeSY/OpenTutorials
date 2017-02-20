@@ -1,0 +1,24 @@
+UI vs API
+
+User Interface
+사용자 인터페이스
+
+Application Programming Interface
+어떤 프로그래밍 언어를 이용해서 무언가를 제어하려고 할 때 사용하는 수단
+
+Interface
+서로 교류할 때 사용되는 기본적인 도구
+
+장치 - 장치 (ex)usb interface
+웹 애플리케이션 - 웹 브라우저
+
+User Interface => 사용자가 직접 조작하는 Interface. 일반 사용자가 사용하고자 하는 애플리케이션을 화면을 통하여 조작 제어할 수 있는 화면. 화면에 보이는 모든 요소
+Application Programming Interface => 애플리케이션이 무언가를 하기 위해서 프로그래밍적으로 그 애플리케이션이 돌아가는 시스템에게 전달하는 명령. 개발자가 개발하고자 하는 애플리케이션을 개발함에 있어서 해당 전제 기반 환경(OS, 언어, etc)을 바탕으로 하여 타 개발자와 협업함에 있어서 손쉽게 개발 가능하도록 하는 약속의 집합체.
+
+구성요소 (꼭대기층_High Level Technology) -> (밑층ex.기계어_Low Level Technology)
+UI -> 웹 애플리케이션 -> 웹 브라우저 -> 운영체제 -> 언어(ex.C언어) -> 어셈블리어 -> 기계어(ex.0101001) -> 전자공학(하드웨어. 전기 껐다 켰다를 정보화) -> 전기공학(전기 생산.전송.에너지전환 등) -> 물리학
+-> : API 제공
+
+API 전성시대
+API의 폭발적 증가 + 쉬워진 프로그래밍
+OS -> web-browser -> platform -> API 폭발 -> IOT -> 21c의 원유 = 데이터 폭발
